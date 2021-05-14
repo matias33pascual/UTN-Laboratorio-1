@@ -1,10 +1,16 @@
 # depslib dependency file v1.0
-1620939214 source:d:\matias\proyectos\utn\dandoclasesc\mi repositorio\utn-laboratorio-programacion-1-2021\clase_20\main.c
+1620953890 source:d:\matias\proyectos\utn\dandoclasesc\mi repositorio\utn-laboratorio-programacion-1-2021\clase_20\main.c
 	<stdio.h>
 	<stdlib.h>
 	"utiles.h"
+	<windows.h>
 
 1620939241 d:\matias\proyectos\utn\dandoclasesc\mi repositorio\utn-laboratorio-programacion-1-2021\clase_20\utiles.h
 
 1620939160 d:\matias\proyectos\utn\dandoclasesc\mi repositorio\utn-laboratorio-programacion-1-2021\clase_20\utiles.c
+
+1620948606 source:d:\matias\proyectos\utn\dandoclasesc\mi repositorio\utn-laboratorio-programacion-1-2021\clase_20\utiles.c
+	<windows.h>
+
+1620953879 source:d:\matias\proyectos\utn\dandoclasesc\mi repositorio\utn-laboratorio-programacion-1-2021\clase_20\jugando.c
 

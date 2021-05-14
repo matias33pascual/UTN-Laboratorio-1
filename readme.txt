@@ -240,3 +240,26 @@ CLASE 18:
 
         * PARA RESOLVER EN CLASE:
             _ Crear una funcion que muestre los datos de una persona pasada por parametro.
+
+CLASE 19:
+        * Resolucion de ejercicios de la guia 4.1 : matrices
+        * Cargar matriz
+        * Mostrar matriz
+        * Cargar matriz con numeros aleatorios (resolver en clase)
+
+CLASE 20:
+        * Organizacion del Trabajo Practico Final
+        * Utilizacion de funciones gotoxy() y color()
+        * Resolucion de ejercicios en clase
+
+
+CLASE 21:
+        * Archivos. Primera parte
+            _ Archivos y tipos de datos primitivos
+            _ Archivos y tipos de datos definidos por el usuario
+
+        * Hilos en C (solo para los grupos que lo solicitaron,
+                      no se evalua en ningun examen ni final ni trabajo practico)
+
+        Referencias de hilos:
+        https://www.youtube.com/watch?v=NAKrOZCcJ4A&ab_channel=WhileTrueThenDream
