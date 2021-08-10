@@ -1,15 +1,10 @@
 UTN
 Tecnicatura Universitaria en Programacion
-Programacion 1 y Laboratorio de computacion 1
-Comision 10
-Prof* Matias Pascual
+Laboratorio de computacion 1
+Programacion 1
+Prof. Matias Pascual
 
-En esta seccion encontrara los contenidos trabajados en 
-cada clase*
-
-RESOLUCIONES:
-	* En esta carpeta iremos agregando las soluciones
-	de las guias en la medida que las vayamos terminando
+CONTENIDOS:
 
 CLASE 1:
 	* INTRODUCCION A LA SINTAXIS DE C
